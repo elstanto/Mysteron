@@ -11,6 +11,13 @@ according to a schedule or other triggers.
 * A real-time clock will be used for accurate time triggers.
 * An LED or two will show power and audio output status.
 
+## Hardware
+The device will use an STM32 microcontroller, I2S DAC for audio output, 
+and microSD card interface. The USB interface will be built in to the STM 
+chip. A general layout is shown below:
+
+![Hardware layout](./hardware/design/Hardware%20Diagram.svg)
+
 ## License
 Hardware - CERN OHL v1.2
 Software - MIT
