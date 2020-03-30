@@ -32,8 +32,3 @@ speed SDIO SD card interface.
 Ideally the firmware will present a complete interface over serial port, 
 so software is not required. However, to avoid typing in the field, an 
 Android app may be developed to act as a GUI for the serial commands.
-
-## License
-Hardware - CERN OHL v1.2
-Software - MIT
-
